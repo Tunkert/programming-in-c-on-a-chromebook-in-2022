@@ -8,7 +8,7 @@
 
 int main()
 {
-    char keyboard_chararcter;
+    int keyboard_chararcter;
     printf("Dean is the coolest character on Supernatural.\n");
     printf("Press any character to learn more.\n");
     keyboard_chararcter = getchar();
