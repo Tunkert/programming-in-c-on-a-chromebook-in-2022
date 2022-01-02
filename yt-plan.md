@@ -13,4 +13,5 @@
 11. infinite wl w break
 12. nested for loop x 2
 13. nested for loop x 3
-
+14. Void function w/ prototype
+15. Void function wo prototype
