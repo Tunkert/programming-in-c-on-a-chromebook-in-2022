@@ -19,3 +19,4 @@
 17. Dean's age - two arguments
 18. Dean's age interactive
 19. Nicer return
+20. Conditional in a function
