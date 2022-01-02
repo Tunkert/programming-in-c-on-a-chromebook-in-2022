@@ -15,3 +15,7 @@
 13. nested for loop x 3
 14. Void function w/ prototype
 15. Void function wo prototype
+16. Dean's age - one argument
+17. Dean's age - two arguments
+18. Dean's age interactive
+19. Nicer return
